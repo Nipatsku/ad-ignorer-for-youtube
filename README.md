@@ -9,6 +9,9 @@ Also adds some opacity to ads layed over the video, so they are not obstructive 
 
 Available on [Chrome web store](https://chrome.google.com/webstore/detail/ad-ignore/anddjaemljgpjielbigbmogfpepjhhoc/related?hl=en-GB&authuser=1)
 
+# Showcase video
+
+[![Showcase](https://img.youtube.com/vi/OlnTtKUpZoM/0.jpg)](https://www.youtube.com/watch?v=OlnTtKUpZoM)
 
 # Development instructions
 
