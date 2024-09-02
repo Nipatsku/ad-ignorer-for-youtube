@@ -18,3 +18,7 @@ Available on [Chrome web store](https://chrome.google.com/webstore/detail/ad-ign
 Clone to your computer and follow Chrome instructions on how to setup a Chrome extension project in *developer mode*.
 
 https://developer.chrome.com/extensions/getstarted#manifest
+
+# Privacy policy
+
+The extension does not handle or store any user data.
